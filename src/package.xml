@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+	<types>
+		<members>Track_trigger</members>
+		<members>Song_trigger</members>
+		<members>Mix_trigger</members>
+		<name>ApexTrigger</name>
+	</types>
+	<types>
+		<members>ITrigger</members>
+		<members>TrackHandler</members>
+		<members>TriggerFactory</members>
+		<members>SongHandler</members>
+		<members>MixHandler</members>
+		<members>SongValidator</members>
+		<members>Validator</members>
+		<members>MixValidator</members>
+		<members>TestDataFactory</members>
+		<members>TestMixDeletion</members>
+		<name>ApexClass</name>
+	</types>
+	<version>36.0</version>
+</Package>
